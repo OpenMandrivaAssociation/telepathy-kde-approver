@@ -3,7 +3,7 @@
 Summary:	KDE Channel Approver for Telepathy
 Name:		telepathy-kde-approver
 Version:	0.5.1
-Release:	1
+Release:	2
 Url:		https://projects.kde.org/projects/playground/network/telepathy/telepathy-approver
 Source0:	ftp://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/telepathy-kde/%version/src/%srcname-%version.tar.bz2
 License:	GPLv2+
